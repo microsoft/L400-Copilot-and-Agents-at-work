@@ -1,0 +1,24 @@
+title: TechWorkshop Copilot Studio and agents at work
+description: This lab showcases the capabilities of Microsoft Copilot Studio and agents in a practical, hands-on environment. Participants will learn how to leverage these tools to enhance productivity and streamline workflows.
+theme: just-the-docs
+
+aux_links:
+  "TechWorkshop L400: Copilot Studio and agents at work": 
+    - "https://github.com/microsoft/L400-Copilot-and-Agents-at-work"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
