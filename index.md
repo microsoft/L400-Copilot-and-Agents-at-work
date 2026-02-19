@@ -34,7 +34,8 @@ This lab includes the following exercises:
 - We append an 8-digit unique identifier (the lab instance ID) to the names of the resources that you create during this workshop. The lab instance ID for your workshop is **@lab.LabInstance.Id**. You should use this number when you create resources.
 - The lab instance IDs used in screenshots will differ from your lab instance ID. They represent the ID in use when youcaptured screenshots.
 
->[!note] Your lab materials include several knowledge source files that represent the Zava customer content. [Download the files](https://github.com/microsoft/L400-Copilot-and-Agents-at-work/blob/main/media/L400%20Copilot%20Support%20Files.zip) at the start of the workshop and have them ready as later steps will ask you to select these files when configuring the agent/knowledge experience.
+{: .note }
+> Your lab materials include several knowledge source files that represent the Zava customer content. [Download the files](https://github.com/microsoft/L400-Copilot-and-Agents-at-work/blob/main/media/L400%20Copilot%20Support%20Files.zip) at the start of the workshop and have them ready as later steps will ask you to select these files when configuring the agent/knowledge experience.
 
 **Images**
 
