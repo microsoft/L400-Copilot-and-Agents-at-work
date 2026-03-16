@@ -1,7 +1,7 @@
 ---
 title: 'Exercise 05: Implement governance'
 layout: default
-nav_order: 5
+nav_order: 6
 has_children: true
 ---
 
